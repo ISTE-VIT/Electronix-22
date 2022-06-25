@@ -4,7 +4,7 @@
  <img src="./Resources/Poster-of-Electronix.png"><br>
 </p>
 
-<b>Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
+Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
 
 ISTE-VIT presents Electronix, an interactive session in which you will delve into the world of electrical circuits and the PCB manufacturing process while learning fascinating topics such as eagle, printed circuit boards, and many others!
 
