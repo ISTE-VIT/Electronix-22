@@ -3,7 +3,7 @@
  <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" ><br>
 </p>
 
-![](./Frame 58.png)
+![](.Frame 58.png)
 
 <b>Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
 
