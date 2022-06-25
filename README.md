@@ -1,9 +1,8 @@
 <h1 align = "center"> Electronix 🔌 </h1>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" ><br>
+ <img src="https://github.com/Archit-Patro/Electronix/blob/main/Frame%2058.png" ><br>
 </p>
-
-![](./"Frame 58.png")
 
 <b>Printed circuit boards are the foundation of everything, from mobile phones to NASA supercomputers, LEDs to massive factory machinery.
 
